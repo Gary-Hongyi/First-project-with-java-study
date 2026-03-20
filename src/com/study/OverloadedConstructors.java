@@ -14,5 +14,6 @@ public class OverloadedConstructors {
         System.out.println(pizza.cheese);
         System.out.println(pizza.topping);
         // 如果我现在不想要四个成分都有的Pizza怎么办,重载构造函数
+
     }
 }
